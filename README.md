@@ -1,2 +1,1 @@
-# Primer-Git
-Fundamentos de programación
+Laboratorio de Fundamentos 
